@@ -8,7 +8,6 @@ fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
-#  Os canvas do FastBI
 
 Os canvas utilizados tem o objetivo de auxiliar algumas das etapas de desenvolvimento do sistema de Business Intelligence. Entre elas podemos destacar as seguintes:
 
