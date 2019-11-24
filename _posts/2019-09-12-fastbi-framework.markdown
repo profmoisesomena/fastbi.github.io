@@ -12,7 +12,7 @@ Metodologia concebida na prática por meio de atividades e abordagens desenvolvi
 ## Fases e tarefas
 
 
-FASE 1 IMERSÃO<br><br>
+#### Fase 1 - Imersão<br><br>
 
 A fase de imersão possui participação ativa de vários Atores envolvidos com o processo, sistema e demandas de Business Intelligence. Este atores comumente incluem Stakeholders, Product Owner, e Equipe de desenvolvimento.
 
@@ -21,17 +21,16 @@ Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) acesso a
 Dentre os produtos esperados podemos destacar a obtenção de uma descrição geral do projeto, definição clara dos problemas existentes e dos  objetivos desejados, além de um modelo de arquitetura/infraestrutura de trabalho que suporte o que é desejado. No tocante o acesso aos dados é de fundamental importância que ele seja obtido antes da definição das atividades e datas a serem indicadas no cronograma de projeto.
 
 
-MARCO DE PLANEJAMENTO<br><br>
+#### Marco de Planejamento - interfase de iteração <br><br>
 
-A fase de planejamento das atividades possui ativa participação dos Stakeholders, Product Owner, e Equipe de desenvolvimento.
+O planejamento das atividades possui ativa participação dos Stakeholders, Product Owner, e Equipe de desenvolvimento.
 
 Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Levantamento de Necessidades e informações; b) Pesquisar e mapear fontes de dados; e c) Detalhar e Priorizar as BIUS (Business Intelligence User Story)
 Dentre os produtos esperados podemos destacar a criação do roadmap com marcos de entrega bem definidos.
 
 É importante destacar que esta etapa é fortemente auxiliada pela etapa de gerência de projeto.
 
-
-FASE 2 REQUISITOS<br><br>
+#### Fase 2 - Requisitos<br><br>
 
 A fase de requisitos visa verificar as necessidades pertinentes ao sistema de BI que será desenvolvido focando na maximização dos resultados desejados.
 
@@ -41,9 +40,7 @@ a) verificação das necessidades a partir do ponto central e relacionadas ao pr
 
 Dentre os produtos esperados podemos destacar a criação do roadmap com marcos de entrega bem definidos.
 
-
-FASE 3 Modelagem do DW e ETL<br><br>
-
+#### Fase 3 - Modelagem do DW e ETL<br><br>
 
 A fase de Modelagem/ETL possui participação ativa do Product Owner, e Equipe de desenvolvimento.
 
@@ -52,17 +49,17 @@ Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Criaçã
 
 Dentre os produtos esperados podemos destacar a obtenção de uma descrição geral do projeto, definição clara dos problemas existentes e dos  objetivos desejados, além de um modelo de arquitetura/infraestrutura de trabalho que suporte o que é desejado. No tocante o acesso aos dados é de fundamental importância
 
-FASE 4 IMERSÃO<br><br>
+#### Fase 4 - Análises e Resultados<br><br>
 
-A fase de Modelagem/ETL possui participação ativa do Product Owner, e Equipe de desenvolvimento. Aqui podemos ter vários produtos resultantes destacando-se os 1) Gráficos e Relatórios; 2) Cubos e Dashboards; 3) Data Mining e Machine Learning;
+A fase de Análises e Resultados possui participação ativa do Product Owner, e Equipe de desenvolvimento. Aqui podemos ter vários produtos resultantes destacando-se os 1) Gráficos e Relatórios; 2) Cubos e Dashboards; 3) Data Mining e Machine Learning;
 
 Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Relatório da Análise Descritiva dos Dados; b) Desenvolvimento de Storytelling e tipos ideais de elementos para visualização das informações; c) Implementação dos protótipos de dashboards definidos previamente; d) Definição dos elementos do cubo com base nas perguntas a serem respondidas; d) Implementação de rotinas de monitoração / alertas de KPI (Key Performance Indicators); e) Aplicação de CRISP-DM para Mineração de Dados (Data Mining); f) Aplicação de algoritmos de Machine Learning (aprendizagem de máquina) visando técnicas de Associação, Classificação, Agrupamento, Estimação e Recomendação. 
 
 
 Dentre os produtos esperados podemos destacar a obtenção dos dados analisados, identificação de padrões e anomalias, obtenção de gráficos e relatórios, criação, configuração e validação dos cubos, implantação de monitoramento correlacionado as análises e Key Performance Indicators (KPI), implementação de algoritmos de data mining e machine learning, além da obtenção de resultados e respostas para as questões levantadas.
-MARCO DE APRESENTAÇÃO
 
-A fase de apresentação das atividades possui participação de toda equipe envolvida.
+#### Marco de Apresentação - interfase de iteração <br><br>
+A apresentação das atividades possui participação de toda equipe envolvida.
 
 Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) relacionar as questões mais importantes obtidas no processo; b) Priorizar o que será apresentado com base nos objetivos desejados ; e c) Criar apresentação dos resultados.
 
@@ -71,6 +68,7 @@ Dentre os produtos esperados podemos destacar a criação da apresentação e fo
 É importante destacar que esta etapa é fortemente auxiliada pela etapa de gerência de projeto.
 
 FASE 5 PASSAGEM DE CONHECIMENTO<br><br>
+#### Fase 5 - Passagem de conhecimento <br><br>
 
 A fase de passagem de conhecimento, possui participação de todos envolvidos e interessados no sistema de Business Intelligence. Este atores comumente incluem Stakeholders, Product Owner, e Equipe de desenvolvimento e usuários que utilizarão o sistema..
 
