@@ -9,7 +9,7 @@ tags: [Holidays, Hawaii]
 ---
 Metodologia concebida na prática por meio de atividades e abordagens desenvolvidas em projetos reais voltados para a construção de sistemas de Business Intelligence. A proposta visa o desenvolvimento de sistemas de Business Intelligence de forma rápida utilizando como base metodologias ágeis e tendo como pilar a obtenção de entrega de valor para o cliente de forma rápida e objetiva. Abordagem é utilizada principalmente para projetos onde o scopo não está perfeitamente definido e com limitações de tempo e equipe, ou visando maximizar os resultados. Esta metodologia tem se destacado em projetos inovadores ou que estejam no escopo de desenvolvimento primeiros projetos de BI dentro de empresas e instituições dinâmicas.
 
-## Fases e tarefas
+## Fases, tarefas e produtos esperados
 
 
 #### Fase 1 - Imersão<br><br>
