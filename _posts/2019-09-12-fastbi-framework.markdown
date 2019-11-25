@@ -43,11 +43,11 @@ A fase de Modelagem/ETL possui participação ativa do Product Owner, e Equipe d
 
 Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Criação da área de Staging; b) Selecionar as informações de interesse derivadas do Modelo OLTP; c) Realizar análise exploratória; d) Definir mapa de ETL; e) Definir o Bus Architecture; f) Definir Modelo OLAP/Multidimensional; g) Realizar pré-processamento dos dados; f) Realizar testes de automação de extração, transformações e carga.
 
-Dentre os produtos esperados podemos destacar a definição dos Modelos OLTP e OLAP (stage area e do data warehouse), a criação das tabelas fato e suas métricas, a criação das tabelas dimensões e suas estruturar hierárquicas, além dos plano base e mapas de ETL, culminando com os processos de carga no data warehouse e validação dos dados.
+Dentre os produtos esperados podemos destacar a definição dos Modelos OLTP e OLAP (stage area e data warehouse), a criação das tabelas fato e suas métricas, a criação das tabelas dimensões e suas estruturar hierárquicas, além dos plano base e mapas de ETL, culminando com os processos de carga no data warehouse e validação dos dados.
 
 #### Fase 4 - Análises e Resultados<br><br>
 
-A fase de Análises e Resultados possui participação ativa do Product Owner, e Equipe de desenvolvimento. Aqui podemos ter vários produtos resultantes destacando-se os 1) Gráficos e Relatórios; 2) Cubos e Dashboards; 3) Data Mining e Machine Learning;
+A fase de Análises e Resultados possui participação ativa do Product Owner e Equipe de desenvolvimento. Aqui podemos ter váras trilhas resultantes destacando-se: 1) Gráficos e Relatórios; 2) Cubos e Dashboards; 3) Data Mining e Machine Learning;
 
 Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Relatório da Análise Descritiva dos Dados; b) Desenvolvimento de Storytelling e tipos ideais de elementos para visualização das informações; c) Implementação dos protótipos de dashboards definidos previamente; d) Definição dos elementos do cubo com base nas perguntas a serem respondidas; d) Implementação de rotinas de monitoração / alertas de KPI (Key Performance Indicators); e) Aplicação de CRISP-DM para Mineração de Dados (Data Mining); f) Aplicação de algoritmos de Machine Learning (aprendizagem de máquina) visando técnicas de Associação, Classificação, Agrupamento, Estimação e Recomendação. 
 
@@ -59,14 +59,11 @@ A apresentação das atividades possui participação de toda equipe envolvida.
 
 Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) relacionar as questões mais importantes obtidas no processo; b) Priorizar o que será apresentado com base nos objetivos desejados ; e c) Criar apresentação dos resultados.
 
-Dentre os produtos esperados podemos destacar a criação da apresentação e formato adequado.
+Dentre os produtos esperados podemos destacar a criação da apresentação e formato adequado. É importante destacar que esta etapa é fortemente auxiliada pela etapa de gerência de projeto.
 
-É importante destacar que esta etapa é fortemente auxiliada pela etapa de gerência de projeto.
-
-FASE 5 PASSAGEM DE CONHECIMENTO<br><br>
 #### Fase 5 - Passagem de conhecimento <br><br>
 
-A fase de passagem de conhecimento, possui participação de todos envolvidos e interessados no sistema de Business Intelligence. Este atores comumente incluem Stakeholders, Product Owner, e Equipe de desenvolvimento e usuários que utilizarão o sistema..
+Destaca-se pelos objetivos estratégicos voltados a formação de equipe, entrega de solução de impacto e criação de um ecossistema de Business Intelligence e Data Warehouse voltados a gestão da informação e direcionada a dados. A fase de passagem de conhecimento, possui participação de todos envolvidos e interessados no sistema de Business Intelligence. Este atores comumente incluem Stakeholders, Product Owner, e Equipe de desenvolvimento e usuários que utilizarão o sistema.
 
 Dentre as tarefas a serem realizadas podemos destacar as seguintes : a) Evento de apresentação; b) Eventos de Divulgação e Treinamentos; c) Obtenção e registro de sugestões para melhoramentos e implementações futuras e d) Reunião de Encerramento do projeto.
 
