@@ -20,4 +20,13 @@ Base url: http://www.example.com/docs/
 Full URL of the document: http://www.example.com/docs/document.pdf 
 {google_docs}document.pdf{/google_docs}
 
-{google_docs}https://docs.google.com/presentation/d/1iCgzRqbqFopIp5oA18h0BDSpzdMkP4it1b72IZIL1CY{/google_docs}
+{google_docs}https://docs.google.com/presentation/d/1iCgzRqbqFopIp5oA18h0BDSpzdMkP4it1b72IZIL1CY|lang:system{/google_docs}
+
+https://docs.google.com/presentation/d/1iCgzRqbqFopIp5oA18h0BDSpzdMkP4it1b72IZIL1CY|lang:system
+
+
+ is the code <br>for reference:
+
+<p><iframe src="https://docs.google.com/presentation/d/1iCgzRqbqFopIp5oA18h0BDSpzdMkP4it1b72IZIL1CY|lang:system" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+
+<p><iframe src="https://docs.google.com/presentation/d/1iCgzRqbqFopIp5oA18h0BDSpzdMkP4it1b72IZIL1CY|lang:system" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
