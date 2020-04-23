@@ -20,4 +20,4 @@ Base url: http://www.example.com/docs/
 Full URL of the document: http://www.example.com/docs/document.pdf 
 {google_docs}document.pdf{/google_docs}
 
-{google_docs}https://docs.google.com/presentation/d/1iCgzRqbqFopIp5oA18h0BDSpzdMkP4it1b72IZIL1CY/edit?usp=drivesdk{/google_docs}
+{google_docs}https://docs.google.com/presentation/d/1iCgzRqbqFopIp5oA18h0BDSpzdMkP4it1b72IZIL1CY{/google_docs}
