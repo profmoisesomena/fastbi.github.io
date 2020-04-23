@@ -30,3 +30,5 @@ https://docs.google.com/presentation/d/1iCgzRqbqFopIp5oA18h0BDSpzdMkP4it1b72IZIL
 <p><iframe src="https://docs.google.com/presentation/d/1iCgzRqbqFopIp5oA18h0BDSpzdMkP4it1b72IZIL1CY|lang:system" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
 <p><iframe src="https://docs.google.com/presentation/d/1iCgzRqbqFopIp5oA18h0BDSpzdMkP4it1b72IZIL1CY|lang:system" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8jddxH08ufA86iJWl3P_zwGAKuQhZDzTa6HOWNumkC5iZ1AJWGQJY4hYUo4OqYM3B2Crkq_uoGHIa/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
