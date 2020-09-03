@@ -7,7 +7,7 @@ img: fast_bi_frameworkv2.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
-Metodologia concebida na prática por meio de atividades e abordagens desenvolvidas em projetos reais voltados para a construção de sistemas de Business Intelligence. A proposta visa o desenvolvimento de sistemas de Business Intelligence de forma rápida utilizando como base metodologias ágeis e tendo como pilar a obtenção de entrega de valor para o cliente de forma rápida e objetiva. A abordagem é utilizada principalmente para projetos onde o scopo não está perfeitamente definido comumente possuindo limitações de tempo e equipe ou visando maximizar os resultados. Esta metodologia tem se destacado em projetos inovadores e/ou que estejam no escopo de desenvolvimento primeiros projetos de BI dentro de empresas e instituições dinâmicas.
+Metodologia concebida na prática por meio de atividades e abordagens desenvolvidas em projetos reais voltados para a construção de sistemas de Business Intelligence. A proposta visa o desenvolvimento de sistemas de Business Intelligence de forma rápida utilizando como base metodologias ágeis e tendo como pilar a obtenção de entrega de valor para o cliente de forma rápida e objetiva. A abordagem é utilizada principalmente para projetos onde o scopo não está perfeitamente definido comumente possuindo limitações de tempo e equipe ou visando maximizar os resultados. Esta metodologia tem se destacado em projetos inovadores e/ou que estejam no escopo de desenvolvimento dos primeiros projetos de BI dentro de empresas e instituições dinâmicas.
 
 ## Fases, tarefas e produtos esperados
 
